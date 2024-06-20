@@ -1,348 +1,342 @@
-# THE FINANCE BILL, 2024  ## SECOND READING ## VOTING RESULTS
-A Bill for
-AN ACT of Parliament to amend the law relating to various taxes and duties
-# Voting Analysis
-
-Total Votes: 332
-
-### Vote Breakdown:
-- Yes Votes: 198 (59.64%)
-- No Votes: 111 (33.43%)
-- Absent Votes: 22 (6.63%)
-
-## Raw Voting Data
-
-| Member                              | Vote   |
-|-------------------------------------|--------|
-| 1. Hon. Samuel Chepkonga            | YES    |
-| 2. Hon. Benjamin Kipkirui           | YES    |
-| 3. Hon. Marianne Kitany             | YES    |
-| 4. Hon. Samuel Atandi               | NO     |
-| 5. Hon. John Walter Owino           | NO     |
-| 6. Hon. Irene Njoki                 | ABSENT |
-| 7. Hon. Abdi Shurie                 | ABSENT |
-| 8. Hon. Florence Jematia            | YES    |
-| 9. Hon. Joshua Kandie               | YES    |
-| 10. Hon. Kipkoros Makilap           | YES    |
-| 11. Hon. Charles Kamuren            | YES    |
-| 12. Hon. Koech Nelson               | YES    |
-| 13. Hon. Barongo Nolphason          | NO     |
-| 14. Hon. Alpha Miruka               | YES    |
-| 15. Hon. Linet Chepkorir            | YES    |
-| 16. Hon. Richard Cheruiyot          | YES    |
-| 17. Hon. Yegon Richard              | YES    |
-| 18. Hon. Gideon Ochanda             | YES    |
-| 19. Hon. Osero Patrick Kibagendi    | NO     |
-| 20. Hon. Raphael Wanjala            | NO     |
-| 21. Hon. Jack Wamboka               | NO     |
-| 22. Hon. Catherine Wambilianga      | YES    |
-| 23. Hon. Yakub Adow                 | ABSENT |
-| 24. Hon. Komingoi Kibet             | YES    |
-| 24. Hon. Catherine Omanyo           | NO     |
-| 25. Hon. Tindi Mwale                | NO     |
-| 26. Hon. Oyula Joseph               | NO     |
-| 27. Hon. Rindikiri Mugambi          | YES    |
-| 28. Hon. Kirima Nguchine            | YES    |
-| 29. Hon. Omar Shimbwa Mwinyi        | NO     |
-| 30. Hon. Victor Koech               | YES    |
-| 31. Hon. Patrick Simiyu             | NO     |
-| 32. Hon. Byego Paul Kibichii        | YES    |
-| 33. Hon. Patrick Ntwiga             | YES    |
-| 34. Hon. Farah Maalim               | YES    |
-| 35. Hon. Beatrice Elachi            | NO '   |
-| 36. Hon. John Kiarie                | YES    |
-| 37. Hon. Musa Sirma                 | YES    |
-| 38. Hon Adan Keynan                 | YES    |
-| 39. Hon. Jeptoo Caroline Ngelechei  | YES    |
-| 40. Hon. Mejjadonk Benjamin         | ABSENT |
-| 41. Hon. Babu Owino                 | NO     |
-| 42. Hon. James Gakuya               | ABSENT |
-| 43. Hon. Julius Mawathe             | NO     |
-| 44. Hon. Mark Mwenje                | NO     |
-| 45. Hon. Lelemengit Josses          | YES    |
-| 46. Hon. Omboko Milemba             | YES    |
-| 47. Hon. Johana Ngeno               | YES    |
-| 48. Hon. Robert Pukose              | YES    |
-| 49. Hon. Yakub Farah                | YES    |
-| 50. Hon. Oundo Ojiambo              | NO     |
-| 51. Hon. Hiribae Said               | ABSENT |
-| 52. Hon. Tungule Charo Kazungu      | YES    |
-| 53. Hon. Udgoon Siyyad              | NO     |
-| 54. Hon. Baro Dekow                 | YES    |
-| 55. Hon. Guyo Ali Wario             | YES    |
-| 56. Hon. Edward Wakili              | YES    |
-| 57. Hon. Kururia Njoroge            | YES    |
-| 58. Hon. Gabriel Kagombe            | YES    |
-| 59. Hon. Elisha Odhiambo            | NO     |
-| 60. Hon. Robert Gichimu             | YES    |
-| 61. Hon. Martha Wangari             | YES    |
-| 62. Hon. Gathoni Wamuchomba         | NO     |
-| 63. Hon. Gimose Gumini              | YES    |
-| 64. Hon. Joyce Bensuda              | NO     |
-| 65. Hon. George Kaluma              | NO     |
-| 66. Hon. Karithi Kiili              | YES    |
-| 67. Hon. Julius Taitumu             | YES    |
-| 68. Hon. John Paul Mwirigi          | YES    |
-| 69. Hon. Ali Abdi Ali               | YES    |
-| 70. Hon. Bernard Shinali            | YES    |
-| 71. Hon. Mumina Bonaya              | YES    |
-| 72. Hon. Lomwaa Joseph Samal        | ABSENT |
-| 74. Hon. Bady Bady Twalib           | NO     |
-| 75. Hon. George Koimburi            | NO     |
-| 76. Hon. Wamacukuru James           | YES    |
-| 77. Hon Eve Obara                   | NO     |
-| 78. Hon.  Kalasinga Majimbo         | NO     |
-| 79. Hon. Titus Lotee                | YES    |
-| 80. Hon. Joseph Kimilu              | NO     |
-| 81. Hon Leah Sankaire               | YES    |
-| 82. Hon. Memusi Kanchory            | YES    |
-| 83. Hon. Kakuta Maimai              | NO     |
-| 84. Hon. Onesmus Ngogoyo            | YES    |
-| 85. Hon. Sakimba Parashina          | NO     |
-| 86. Hon. Sunkuiya George            | YES    |
-| 87. Hon. Elsie Muhanda              | NO     |
-| 88. Hon. Paul Katana                | NO     |
-| 89. Hon. Yussuf Hassan              | NO     |
-| 90. Hon. Chege Njuguna              | YES    |
-| 91. Hon. John Makali                | YES    |
-| 92. Hon. Peter Irungu               | YES    |
-| 93. Hon Fabian Kyule                | YES    |
-| 94. Hon. Moroto Samuel              | YES    |
-| 95. Hon. Oscar Sudi                 | YES    |
-| 96. Hon. Adipo Okuome               | NO     |
-| 97. Hon. Ronald Karauri             | YES    |
-| 98. Hon. Charles Were               | NO     |
-| 99. Hon. Robert Mbui                | NO     |
-| 100. Hon. Adams Kipsanai            | YES    |
-| 101. Hon. Gideon Kimaiyo            | YES    |
-| 102. Hon. Beatrice Kemei            | YES    |
-| 103. Hon. Julius Ruto               | YES    |
-| 104. Hon. Christopher Aseka         | YES    |
-| 105. Hon. John Kawanjiku            | YES    |
-| 106. Hon. Waithaka John             | YES    |
-| 107. Hon Wamuratha Wanjiku          | YES    |
-| 108. Hon. Peter Orero               | NO     |
-| 109. Hon. Jessica Mbalu             | NO     |
-| 110. Hon Mwengi Mutuse              | YES    |
-| 111. Hon. Njoroge Wainaina          | YES    |
-| 112. Hon. Joseph Munyoro            | YES    |
-| 114. Hon. Ndindi Nyoro              | YES    |
-| 115. Hon. Kimani Ichung'wah         | YES    |
-| 116. Hon. Julius Sunkuli            | NO     |
-| 117. Hon. Gertrude Mbeyu            | NO     |
-| 118. Hon. Owen Baya                 | YES    |
-| 119. Hon. Ken Chonga                | NO     |
-| 120. Hon Nzambia Kithua             | NO     |
-| 121. Hon. Didmus Barasa             | YES    |
-| 122. Hon. Kakai Bisau               | NO     |
-| 123. Hon. Gonzi Rai                 | YES    |
-| 124. Hon. Kwenya Thuku              | YES    |
-| 125. Hon. Wanjiku Muhia             | YES    |
-| 126. Hon. Cherorot Joseph           | YES    |
-| 127. Hon. Hillary Kosgei            | YES    |
-| 128. Hon. Jane Maina Njeri          | ABSENT |
-| 129. Hon. Joseph Gitari             | YES    |
-| 130. Hon. Bedzimba Rashid           | NO     |
-| 131. Hon. Donya Doris               | ABSENT |
-| 132. Hon. Ruth Odinga               | NO     |
-| 133. Hon. Oron Joshua               | NO     |
-| 134. Hon. Shakeel Shabbir           | ABSENT |
-| 135. Hon. Rozaah Buyu               | NO     |
-| 136. Hon. Irene Kasalu              | NO     |
-| 137. Hon. Makali Mulu               | NO     |
-| 138. Hon. Nimrod Mbai               | YES    |
-| 139. Hon. Mboni Mwalika             | NO     |
-| 140. Hon. Rachael Nyamai            | YES    |
-| 141. Hon. Edith Nyenze              | NO     |
-| 142. Hon. Japheth Nyakundi          | YES    |
-| 143. Hon. Kibagendi Anthony         | NO     |
-| 144. Hon. Clive Gisairo             | NO     |
-| 145. Hon. Yegon Richard             | YES    |
-| 146. Hon. Alfred Mutai              | YES    |
-| 147. Hon. Joseph Tonui              | YES    |
-| 148. Hon. Kitayama Maisori          | YES    |
-| 149. Hon. Mathias Robi              | YES    |
-| 150. Hon. Fatuma Masito             | NO     |
-| 151. Hon Ferdinand Wanyonyi         | YES    |
-| 152. Hon. Abdulrahman Mohamed       | NO     |
-| 153. Hon Mohamed Hussein Abdekadir  | YES    |
-| 154. Hon. Jane Kagiri               | YES    |
-| 155. Hon. Mwangi Kiunjuri           | YES    |
-| 156. Hon. Sarah Korere              | YES    |
-| 157. Hon. Stephen Wachira Karani    | YES    |
-| 158. Hon. Joseph Lekuton            | YES    |
-| 159. Hon. Muthoni Marubu            | YES    |
-| 160. Hon. Ruweida Obo               | YES    |
-| 161. Hon. Stanley Muthama           | YES    |
-| 162. Hon. Phelix Odiwuor (Jalang'o) | NO     |
-| 163. Hon. Kahangara Joseph          | YES    |
-| 164. Hon. Mishi Mboko               | NO     |
-| 165. Hon. Innocent Mugabe           | NO     |
-| 166. Hon. John Chege Kiragu         | YES    |
-| 167. Hon. Protus Akuja              | YES    |
-| 168. Hon. Dick Maungu               | NO     |
-| 169. Hon, Nabii Nabwera             | NO     |
-| 170. Hon. Chiforomodo Mangale       | YES    |
-| 171. Hon. Titus Khamala             | NO     |
-| 172. Hon. Kareke Mbiuki             | YES    |
-| 173. Hon. Joyce Kamene              | NO     |
-| 174. Hon. Caleb Mule                | YES    |
-| 175. Hon. George Aladwa             | NO     |
-| 176. Hon. Suzanne Kiamba            | NO     |
-| 177. Hon. Rose Mumo                 | NO     |
-| 178. Hon. Malulu Injendi            | YES    |
-| 179. Hon. Amina Mnyazi              | NO     |
-| 180. Hon. Sheikh Bashir Abdullahi   | YES    |
-| 181. Hon. Umul kher Kassim          | YES    |
-| 182. Hon. Husseinweytan Mohamed     | NO     |
-| 183. Hon. Abdul Haro Ibrahim        | YES    |
-| 184. Hon. Yusuf Adan Haji           | YES    |
-| 185. Hon. John Mukunji              | NO     |
-| 186. Hon. Wamaua Njoroge            | YES    |
-| 187. Hon. David Bowen               | YES    |
-| 188. Hon.  Kipchumba Toroitich      | YES    |
-| 189. Hon. Naomi Waqo                | YES    |
-| 190. Hon. Joshua Mwaliyo            | ABSENT |
-| 191. Hon. Geoffrey Odanga           | NO     |
-| 192. Hon. Anthony Oluoch            | NO     |
-| 193. Hon. Eric Mwangi Kahugu        | YES    |
-| 194. Hon. Kassim Sawa               | YES    |
-| 195. Hon. Peter OScar Nabulindo     | YES    |
-| 196. Hon. Stephen Mule              | NO     |
-| 197. Hon. Geoffrey Kariuki          | YES    |
-| 198. Hon. Bernard Muriuki           | YES    |
-| 199. Hon. Erastus Kivasu            | NO     |
-| 200. Hon. Elizabeth Kailemia        | YES    |
-| 201. Hon. Fatuma Zainab             | NO     |
-| 202. Hon. Kiborek Reuben            | YES    |
-| 203. Hon. Bartoo Phyllis            | YES    |
-| 204. Hon. Kuria Kimani              | YES    |
-| 205. Hon. Zamzam Mohamed            | NO     |
-| 206. Hon. Abraham Kirwa             | YES    |
-| 207. Hon. Feisal Bader              | YES    |
-| 208. Hon. Fred Kapondi              | YES    |
-| 209. Hon. K'oyoo James              | NO     |
-| 210. Hon. Kaguchia John             | YES    |
-| 211. Hon. Salasya Peter             | NO     |
-| 212. Hon. Johnson Naicca            | YES    |
-| 213. Hon. Betty Maina               | YES    |
-| 214. Hon. Machele Mohamed           | NO     |
-| 215. Hon. Musyoka Vincent           | YES    |
-| 216. Hon. Mary Maingi               | YES    |
-| 217. Hon. Gideon Mulyungi           | NO     |
-| 218. Hon. Paul Nzengu               | NO     |
-| 219. Hon. Charles Nguna             | NO     |
-| 220. Hon. Esther Passaris           | NO     |
-| 221. Hon. Jayne Kihara              | YES    |
-| 222. Hon. Liza Chelule              | YES    |
-| 223. Hon. David Gikaria             | YES    |
-| 224. Hon. Samuel Arama              | YES    |
-| 225. Hon. Godfrey Mulanya           | NO     |
-| 226. Hon. Cynthia Muge              | YES    |
-| 227.  Hon. Bernard Kitur            | ABSENT |
-| 228. Hon. Rebecca Tonkei            | YES    |
-| 229. Hon. Aramat Lemanken           | YES    |
-| 230. Hon. Gabriel Tongoyo           | YES    |
-| 231. Hon. Emmanuel Wangwe           | YES    |
-| 232. Hon. George Gachagua           | YES    |
-| 233. Hon. Martin Peters Owino       | NO     |
-| 233. Hon. GK Kariuki                | YES    |
-| 234. Hon. Charity Kathambi          | YES    |
-| 235. Hon. Guyo Adhe                 | YES    |
-| 236. Hon. Rahim Dawood              | YES    |
-| 237. Hon Joash Nyamoko              | YES    |
-| 238. Hon. Aduma Owuor               | NO     |
-| 239. Hon. Mohamed Ali               | ABSENT |
-| 240. Hon. Jerusha Momanyi           | YES    |
-| 241. Hon. Faith Gitau               | YES    |
-| 242. Hon Jared Okelo                | NO     |
-| 243. Hon. Zaheer Jhanda             | YES    |
-| 244. Hon. Daniel Manduku            | NO     |
-| 245. Hon. Tom Mboya Odege           | NO     |
-| 246. Hon. Rahab Mukami              | YES    |
-| 247. Hon. Duncan Mathenge           | YES    |
-| 248. Hon. Michael Muchira           | YES    |
-| 249. Hon. Kiaraho David             | YES    |
-| 250. Hon. Michael Wainaina          | YES    |
-| 251. Hon. David Pkosing             | YES    |
-| 252. Hon. Antony Kenga              | NO     |
-| 253. Hon. Lilian Gogo               | NO     |
-| 254. Hon. Otiende Amolo             | NO     |
-| 255. Hon. Kibet Jebor               | YES    |
-| 256. Hon. Paul Abuor                | NO     |
-| 257. Hon. Mwafrika Kamande          | YES    |
-| 258. Hon. TJ Kajwang                | NO     |
-| 259. Hon. Simon Kingara             | YES    |
-| 260. Hon. Eric Karemba              | YES    |
-| 261. Hon. Sloya Clement             | ABSENT |
-| 262. Hon. Caleb Amisi               | NO     |
-| 263. Hon. Dido Rasso                | YES    |
-| 264. Hon. Pauline Lenguris          | YES    |
-| 265. Hon. Lekumontare Jackson       | YES    |
-| 266. Hon. Letipila Dominic          | YES    |
-| 267. Hon. Naisula Lesuuda           | NO     |
-| 268. Hon. James Nyikal              | NO     |
-| 269. Hon. Fredrick Ikana            | YES    |
-| 270. Hon. Christine Ombaka          | NO     |
-| 271. Hon. Peter Lochakapong         | YES    |
-| 272. Hon. Justice Kemei             | YES    |
-| 273. Hon. John WalkWaluke           | YES    |
-| 274. Hon. Francis Sigei             | YES    |
-| 275. Hon. Shadrack Mwiti            | ABSENT |
-| 276. Hon. Silvanus Osoro            | YES    |
-| 277. Hon. David Kiplagat            | YES    |
-| 278. Hon. Amos Mwago                | NO     |
-| 279. Hon. Millie Odhiambo           | NO     |
-| 280. Hon. Caroli Omondi             | YES    |
-| 281. Hon. Samuel Gachobe            | YES    |
-| 282. Hon. Junet Mohamed             | NO     |
-| 283. Hon. Francis Masara            | NO     |
-| 284. Hon. Amina Dika                | YES    |
-| 285. Hon. Bare Hussein Abdi         | YES    |
-| 286. Hon. John Bwire                | YES    |
-| 287. Hon. Oku Kaunya                | NO     |
-| 288. Hon. Mary Emaase               | YES    |
-| 289. Hon. Geoffrey Wandeto          | ABSENT |
-| 290. Hon. George Murugara           | YES    |
-| 291. Hon. Susan Ngugi               | ABSENT |
-| 292. Hon. Alice Ng'ang'a            | YES    |
-| 293. Hon. William Kamket            | YES    |
-| 294. Hon. Mpuru Aburi               | YES    |
-| 295. Hon. John Mutunga              | YES    |
-| 296. Hon. Julius Melly              | YES    |
-| 297. Hon John Chikati               | YES    |
-| 298. Hon. Lilian Siyoi              | YES    |
-| 299. Hon. Janet Sitienei            | YES    |
-| 300. Hon. Cecilia Ngitit            | ABSENT |
-| 301. Hon. Joseph Namuar             | YES    |
-| 302. Hon. Paul Ekuom Nabuin         | NO     |
-| 303. Hon John Ariko                 | NO     |
-| 304. Hon. Daniel Nanok              | YES    |
-| 305. Hon. Gladys Shollei            | YES    |
-| 306. Hon. David Ochieng             | NO     |
-| 307. Hon. James Wandayi             | NO     |
-| 308. Hon. Mark Nyamita              | NO     |
-| 309. Hon Ernest Kivai Kagesi        | YES    |
-| 310. Hon. Beatrice Adagala          | YES    |
-| 311. Hon. Adow Mohamed              | YES    |
-| 312. Hon. Farah Yusuf Mohamed       | NO     |
-| 313. Hon. Martin Pepela             | YES    |
-| 314. Hon. Abdi Daudi Mohamed        | ABSENT |
-| 315. Hon. Daniel Wanyama            | YES    |
-| 316. Hon. Stephen Mogaka            | NO     |
-| 317. Hon. Rael Chepkemoi            | YES    |
-| 318. Hon. Timothy Wanyonyi          | NO     |
-| 319. Hon. Mwakuwona Danson          | NO     |
-| 320. Hon. Basil Robert              | NO     |
-| 321. Hon. Abdisirat Khalif          | YES    |
-| 322. Hon. Sabina Chege              | ABSENT |
-| 323. Hon. Joseph Hamisi             | YES    |
-| 324. Hon. Harun Suleka              | YES    |
-| 325. Hon. Ikiara Dorothy            | YES    |
-| 326. Hon. Iraya Joseph              | YES    |
-| 327. Hon. Kosgei Joseph             | ABSENT |
-| 328. Hon. Irene Mayaka              | NO     |
-| 329. Hon. Umul kher Harun           | NO     |
-| 330. Hon. Teresia Wanjiru Mwangi    | ABSENT |
-| 331. Hon. John Mbadi                | NO     |
-| 332. Hon. Talib Abubakar Ahmed      | YES    |
+| Image                                                                                                                                                                  | Name                                 | County            | Constituency        | Party    | Vote   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------------|---------------------|----------|--------|
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk) |                                      |                   |                     |          |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_gathiru%20cropped.jpg?itok=YBoa5txX)                                           | HON.  MEJJADONK,  BENJAMIN GATHIRU   | NAIROBI           | EMBAKASI CENTRAL    | UDA      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_DSC_3461.JPG?itok=rk988Xxz)                                                    | HON. (AMB.) LANGAT BENJAMIN KIPKIRUI | KERICHO           | AINAMOI             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Gichuki%20Edwin%20Mugo.jpg?itok=pUwhYirf)                                           | HON. (DR.) GICHUKI EDWIN MUGO        | MURANGÁ           | MATHIOYA            | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kosgei%20Jackson%20Kipkemoi.jpg?itok=L-932ZtJ)                                      | HON. (DR.) JACKSON KIPKEMOI KOSGEI   |                   |                     | UDA      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Pukose.jpg?itok=OjXU2HqN)                                            | HON. (DR.) PUKOSE ROBERT             | TRANS NZOIA       | ENDEBESS            | UDA      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20kilome.jpg?itok=gq_gum3p)                                            | HON. (ENG.)  NZAMBIA KITHUA THUDDEUS | MAKUENI           | KILOME              | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20ijara.jpg?itok=1QDsCZ1F)                                                  | HON. ABDI ALI ABDI                   | GARISSA           | IJARA               | NAP-K    | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Abdi%20Khamis%20Chome2.jpg?itok=p4shAEVD)                                           | HON. ABDI KHAMIS CHOME               | TAITA TAVETA      | VOI                 | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A0218.jpg?itok=Pa40r3RR)                                                    | HON. ABDI, YUSUF HASSAN              | NAIROBI           | KAMKUNJI            | JP       | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Adow%20Aden%20Mohamed.jpg?itok=LiWbR6BN)                                            | HON. ADOW ADEN MOHAMMED              | WAJIR             | WAJIR SOUTH         | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20shabbir.jpg?itok=kPXQ4gqS)                                           | HON. AHMED SHAKEEL AHMED SHABBIR     | KISUMU            | KISUMU EAST         | IND.     | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_croped%20loima.jpg?itok=nLo_i_m_)                                              | HON. AKUJAH, PROTUS EWESIT           | TURKANA           | LOIMA               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Screenshot_20220826_165032.jpg?itok=OQ8GWlCR)                                  | HON. ALFAH ONDIEKI MIRUKA            | KISII             | BOMACHOGE CHACHE    | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ali%20Abdisirat%20Khalif.jpg?itok=fPHf8Ncg)                                         | HON. ALI ABDISIRAT KHALIF            |                   |                     | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Amollo%20Paul%20Otiende.jpeg?itok=K3DlcKfI)                                         | HON. AMOLLO PAUL OTIENDE             | SIAYA             | RARIEDA             | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20arama.jpg?itok=O0GCQjkB)                                             | HON. ARAMA SAMUEL                    | NAKURU            | NAKURU TOWN WEST    | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20trukana.jpg?itok=iIarpN2s)                                                | HON. ARIKO JOHN NAMOIT               | TURKANA           | TURKANA SOUTH       | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Atandi.jpg?itok=o_GPADoQ)                                            | HON. ATANDI SAMUEL ONUNGA            | SIAYA             | ALEGO USONGA        | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Babu%20Owino%20Paul%20Ongili2.jpg?itok=tWsmZRPc)                                    | HON. BABU OWINO PAUL ONGILI          | NAIROBI           | EMBAKASI EAST       | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20bady.jpg?itok=tPWus7hW)                                              | HON. BADY BADY TWALIB                | MOMBASA           | JOMVU               | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20barasa.jpg?itok=m81r0_q1)                                            | HON. BARASA PATRICK SIMIYU           | TRANS NZOIA       | CHERANGANY          | DAP-K    | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20obadiah.jpg?itok=V6A9uecO)                                           | HON. BARONGO NOLFASON OBADIAH        | KISII             | BOMACHOGE BORABU    | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tarbaj.jpg?itok=ZFW1MbQ-)                                                 | HON. BARRE HUSSEIN ABDI              | WAJIR             | TARBAJ              | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Bartoo%20Phyllis%20Jepkemoi.jpg?itok=MI57t4cx)                                      | HON. BARTOO PHYLIS JEPKEMOI          | UASIN GISHU       | MOIBEN              | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Basil%20Robert%20Ngui.jpg?itok=cr-kzXgo)                                            | HON. BASIL ROBERT NGUI               | MACHAKOS          | YATTA               | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Owen%20Mbaya.jpg?itok=2MHpHLBs)                                                     | HON. BAYA OWEN YAA                   | KILIFI            | KILIFI NORTH        | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20bedzimba.jpg?itok=T_a0571m)                                          | HON. BEDZIMBA RASHID JUMA            | MOMBASA           | KISAUNI             | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20bidu.jpg?itok=5ZYi9AAK)                                              | HON. BIDU, MOHAMED TUBI              | ISIOLO            | ISIOLO SOUTH        | JP       | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A4570.JPG?itok=-EcAj1aC)                                                    | HON. BIEGO PAUL KIBICHIY             | NANDI             | CHESUMEI            | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiminini.jpg?itok=SVTmX06A)                                          | HON. BISAU, MAURICE KAKAI            | TRANS-NZOIA       | KIMININI            | DAP-K    | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20bonaya.jpg?itok=QEn7w86R)                                            | HON. BONAYA MUMINA GOLLO             | ISIOLO            | ISIOLO              | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/ds_shollei.jpg?itok=Vh7OJfPj)                                                       | HON. BOSS GLADYS JEPKOSGEI           | UASIN GISHU       | UASIN GISHU         | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Bowen%20Kangogo%20David.jpg?itok=9CDUeiFt)                                          | HON. BOWEN DAVID KANGOGO             | ELGEYO - MARAKWET | MARAKWET EAST       | UDA      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ruth.jpg?itok=IP6IRvF8)                                              | HON. BUSIA RUTH ADHIAMBO ODINGA      | KISUMU            | KISUMU              | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20buyu.jpg?itok=QQ-WhXR2)                                              | HON. BUYU ROZAAH AKINYI              | KISUMU            | KISUMU WEST         | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20taveta.jpg?itok=zMNYusZs)                                                 | HON. BWIRE JOHN OKANO                | TAITA TAVETA      | TAVETA              | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20rongai.jpg?itok=cR6hU97t)                                            | HON. CHEBOR, PAUL KIBET              | NAKURU            | RONGAI              | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20limuru.jpg?itok=aErmJvZY)                                                 | HON. CHEGE JOHN KIRAGU               | KIAMBU            | LIMURU              | UDA      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2023-05/Hon.%20Chege%20Njuguna.jpg?itok=s4eDgYi0)                                           | HON. CHEGE NJUGUNA                   | MURANG'A          | KANDARA             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Chege%20Sabina%20Wanjiru.jpg?itok=Zr8iFs-H)                                         | HON. CHEGE SABINA WANJIRU            |                   |                     | JP       | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20liza.jpg?itok=pUtWbL-v)                                              | HON. CHELULE, LIZA CHEPKORIR         | NAKURU            | NAKURU              | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped.jpg?itok=EH6RYgzD)                                                          | HON. CHEPKONGA, SAMUEL KIPRONO       | UASIN GISHU       | AINABKOI            | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20toto.jpg?itok=ekFu0LJD)                                              | HON. CHEPKORIR, LINET                | BOMET             | BOMET               | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20njoro.jpg?itok=Gr8CEdK4)                                             | HON. CHEPKWONY  CHARITY KATHAMBI     | NAKURU            | NJORO               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A9954.jpg?itok=sLAZCUP4)                                                    | HON. CHEROROT JOSEPH KIMUTAI         | KERICHO           | KIPKELION EAST      | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Chesebe%20Fred%20Kapondi.jpg?itok=-BrSaqBA)                                         | HON. CHESEBE FRED KAPONDI            | BUNGOMA           | MT. ELGON           | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20lungalunga.jpg?itok=-Qd-01W_)                                             | HON. CHIFOROMODO, MANGALE MUNGA      | KWALE             | LUNGA LUNGA         | UDM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Chikati%20John%20Murumba.jpg?itok=WHks5SBR)                                         | HON. CHIKATI JOHN MURUMBA            | BUNGOMA           | TONGAREN            | FORD - K |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20moroto.jpg?itok=RpvG_hRO)                                            | HON. CHUMEL, MOROTO SAMUEL           | WEST POKOT        | KAPENGURIA          | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kesses.jpg?itok=s77iFd_Q)                                            | HON. CPA RUTTO JULIUS KIPLETTING     | UASIN GISHU       | KESSES              | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Dawood%20Rahim%20Abdul.jpg?itok=9-GRp1PU)                                           | HON. DAWOOD, ABDUL RAHIM             | MERU              | NORTH IMENTI        | IND      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Dena%20Joseph%20Hamisi.jpg?itok=NLjdDgZh)                                           | HON. DENA JOSEPH HAMISI              |                   |                     | ANC      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20paul.jpg?itok=IY9q5Kki)                                                   | HON. EKWOM NABUIN                    | TURKANA           | TURKANA NORTH       | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_BILLBOARD%20pic.jpg?itok=pewgCegK)                                             | HON. ELACHI BEATRICE KADEVERESIA     | NAIROBI           | DAGORETTI NORTH     | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2024-02/Eric%20Wamumbi.jpg?itok=He7O-et1)                                                   | HON. ERIC WAMUMBI                    | NYERI             | MATHIRA             | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20salah.jpg?itok=y_jG3cau)                                             | HON. FARAH SALAH YAKUB               | GARISSA           | FAFI                | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Farah%20Yussuf%20Mohamed_0.jpg?itok=IN9Evc7J)                                       | HON. FARAH YUSSUF MOHAMED            | WAJIR             | WAJIR WEST          | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A0021.jpg?itok=qxeak9ya)                                                    | HON. GACHAGUA GEORGE                 | NYANDARUA         | NDARAGWA            | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20subukia_0.jpg?itok=L8CWthnJ)                                              | HON. GACHOBE SAMUEL KINUTHIA         | NAKURU            | SUBUKIA             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gakuya.jpg?itok=oukX9O8u)                                            | HON. GAKUYA JAMES MWANGI             | NAIROBI           | EMBAKASSI NORTH     | UDA      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20keiyo.jpg?itok=ccz1pjPs)                                             | HON. GIDEON KIMAIYO                  | ELGEYO - MARAKWET | KEIYO SOUTH         | UDA      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nakuru.jpg?itok=W9wHby4Z)                                            | HON. GIKARIA, DAVID                  | NAKURU            | NAKURU TOWN EAST    | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gimose.jpg?itok=UT3nel6f)                                            | HON. GIMOSE, CHARLES GUMINI          | VIHIGA            | HAMISI              | ANC      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kitutu_0.jpg?itok=zOOpVn3m)                                          | HON. GISAIRO CLIVE OMBANE            | NYAMIRA           | KITUTU MASABA       | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gitari.jpg?itok=M7XIUJGK)                                            | HON. GITARI, JOSEPH GACHOKI          | KIRINYAGA         | KIRINYAGA CENTRAL   | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20faith.jpg?itok=Qhk7iV2x)                                             | HON. GITAU FAITH WAIRIMU             | NYANDARUA         | NYANDARUA           | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gichugu.jpg?itok=4G-GRzwV)                                           | HON. GITHINJI, ROBERT GICHIMU        | KIRINYAGA         | GICHUGU             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gogo.jpg?itok=Lh8EDjNL)                                              | HON. GOGO, LILIAN ACHIENG            | HOMA BAY          | RANGWE              | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20Guyo.jpg?itok=dvbzjBPc)                                              | HON. GUYO ALI WARIO                  | TANA RIVER        | GARSEN              | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_IMG_4635.jpg?itok=eH_dBRYe)                                                    | HON. HAMISI KAKUTA MAIMAI            | KAJIADO           | KAJIADO EAST        | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mand.jpg?itok=nIddGSeP)                                              | HON. HARO ABDUL EBRAHIM              | MANDERA           | MANDERA SOUTH       | UDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Hassan%20Kulow%20Maalim.jpg?itok=6g4U1nor)                                          | HON. HASSAN KULOW MAALIM             | MANDERA           | BANISSA             | UDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20buya.jpg?itok=1u8LtUOm)                                              | HON. HIRIBAE SAID BUYA               | TANA RIVER        | GALOLE              | ODM      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ichung%27wah%20Anthony%20Kimani2.jpg?itok=ciM0eqWk)                                 | HON. ICHUNG’WAH ANTONY KIMANI        | KIAMBU            | KIKUYU              | UDA      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20shinyalu.jpg?itok=zEUff3zf)                                          | HON. IKANA FREDRICK LUSULI           | KAKAMEGA          | SHINYALU            | ANC      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Ikiara%20Dorothy%20Muthoni.jpg?itok=imIVN2Kr)                                       | HON. IKIARA, DOROTHY MUTHONI         |                   |                     | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20malava.jpg?itok=Rt9_UtNT)                                            | HON. INJENDI MOSES MALULU            | KAKAMEGA          | MALAVA              | ANC      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20south%20imenti.jpg?itok=lClQTdFZ)                                    | HON. ITHINJI SHADRACK MWITI          | MERU              | SOUTH IMENTI        | JP       | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Guyo%20Waqo%20Jaldesa.jpg?itok=AYw2QhPx)                                            | HON. JALDESA GUYO WAQO               | MARSABIT          | MOYALE              | UPIA     | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Jehow%20Fatuma%20Abdi.jpg?itok=q7MheImo)                                            | HON. JEHOW FATUMA ABDI               | WAJIR             | WAJIR               | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nyaribari.jpg?itok=Ua1xqztX)                                         | HON. JHANDA ZAHEER                   | KISII             | NYARIBARI CHACHE    | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk) | HON. JOSEPH WAINAINA IRAYA           |                   |                     |          | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cb0a7144eba907ac785c88f0e0fc98bf_M.jpg?itok=Asu1OxTf)                               | HON. JUNET SHEIKH NUH MOHAMED        |                   |                     |          | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kivai%20Ernest%20Ogesi.jpg?itok=LLiqfTs9)                                           | HON. KAGESI ERNEST OGESI KIVAI       | VIHIGA            | VIHIGA              | ANC      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/KAGIRI-JANE-WANGECHI--3.jpg?itok=M0o7gzqU)                                          | HON. KAGIRI JANE WANGECHI            | LAIKIPIA          | LAIKIPIA            | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped.jpg?itok=sYluzpSB)                                                     | HON. KAGOMBE GABRIEL GATHUKA         | KIAMBU            | GATUNDU SOUTH       | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kaguchia%20John%20Philip%20Gichohi.jpg?itok=bMMS_xMW)                               | HON. KAGUCHIA JOHN PHILIP GICHOHI    | NYERI             | MUKURWEINI          | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20lari.jpg?itok=hM0NVTZK)                                                   | HON. KAHANGARA JOSEPH MBURU          | KIAMBU            | LARI                | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kailema%20Elizabeth%20Karambu2.jpg?itok=6xAUKZIu)                                   | HON. KAILEMIA ELIZABETH KARAMBU      | MERU              | MERU                | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/a9e9f42914223665d97ad02bf448f9bc_M.jpg?itok=bXm14Gy_)                               | HON. KAJWANG’, FRANCIS TOM JOSEPH    |                   |                     | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/KALUMA%20PETER%20GEORGE%20OPONDO.jpg?itok=lzlT_RGa)                                 | HON. KALUMA GEORGE PETER OPONDO      | HOMA BAY          | HOMA BAY TOWN       | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kamene.jpg?itok=m4fFiR7L)                                            | HON. KAMENE, JOYCE                   | MACHAKOS          | MACHAKOS            | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kamket%20William%20Kasait.jpg?itok=0NaqzLzU)                                        | HON. KAMKET KASSAIT WILLIAM          | BARINGO           | TIATY               | KANU     | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kamuren.jpg?itok=O9pDB5eV)                                           | HON. KAMUREN, CHARLES                | BARINGO           | BARINGO SOUTH       | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20memusi.jpg?itok=qqhxeCwQ)                                            | HON. KANCHORY, ELIJAH MEMUSI         | KAJIADO           | KAJIADO CENTRAL     | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kandie.jpg?itok=ExwWuzyd)                                            | HON. KANDIE, JOSHUA CHEPYEGON        | BARINGO           | BARINGO CENTRAL     | UDA      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Wachira%20Stephen%20Karani.jpg?itok=0IICeShX)                                       | HON. KARANI STEPHEN WACHIRA          | LAIKIPIA          | LAIKIPIA WEST       | UDA      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kasa.jpg?itok=SS_lp6Ce)                                              | HON. KARAURI, RONALD KAMWIKO         | NAIROBI           | KASARANI            | IND      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20njiru.jpg?itok=UxFr_gfw)                                             | HON. KAREMBA, ERIC MUCHANGI.N.       | EMBU              | RUNYENJES           | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Macharia%20George%20Kariuki.jpg?itok=1YMVy0Cg)                                      | HON. KARIUKI GEORGE MACHARIA         | KIRINYAGA         | NDIA                | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kasalu%20Irene%20Muthoni.jpg?itok=-GD_kJ8c)                                         | HON. KASALU, IRENE MUTHONI           | KITUI             | KITUI               | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kasiwai%20Rael%20Kasiwai.jpg?itok=LuGUp4l4)                                         | HON. KASIWAI RAEL KASIWAI            | WEST POKOT        | WEST POKOT          | KUP      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Paul%20Katana%20Kahindi.jpg?itok=mDfelKnX)                                          | HON. KATANA PAUL KAHINDI             | KILIFI            | KALOLENI            | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kaunya%20Edward%20Oku.jpg?itok=kepkhDEk)                                            | HON. KAUNYA EDWARD OKU               | BUSIA             | TESO NORTH          | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A4508.jpg?itok=HYA6jlU8)                                                    | HON. KEMEI JUSTICE KIPSANG           | KERICHO           | SIGOWET/SOIN        | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kericho.jpg?itok=KmKZ3gjx)                                           | HON. KEMEI, BEATRICE CHEPNGENO       | KERICHO           | KERICHO             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/HON%20KEYNA.jpg?itok=vTqhdtOE)                                                      | HON. KEYNAN, WEHLIYE ADAN            | WAJIR             | ELDAS               | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Mboko%20Mishi%20Juma%20Khamisi.jpg?itok=9L14tY1E)                                   | HON. KHAMISI MBOKO MISHI JUMA        | MOMBASA           | LIKONI              | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kodhe.jpg?itok=p-io3C57)                                             | HON. KHODHE PHELIX ODIWUOR           | NAIROBI           | LANGATA             | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20susan.jpg?itok=dwZo1kw6)                                             | HON. KIAMBA SUZANNE NDUNGE           | MAKUENI           | MAKUENI             | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/DSC_0177%40%40AW.jpg?itok=jPfNDgtG)                                                 | HON. KIARAHO, DAVID NJUGUNA          | NYANDARUA         | OL KALOU            | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kitutu.jpg?itok=Zr7srBnK)                                            | HON. KIBAGENDI, ANTONEY              | KISII             | KITUTU CHACHE SOUTH | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20naivasha.jpg?itok=4SuubR8f)                                          | HON. KIHARA, JAYNE N.W               | NAKURU            | NAIVASHA            | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20kangema.jpg?itok=O5YQtMiH)                                                | HON. KIHUNGI PETER IRUNGU            | MURANGA           | KANGEMA             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kilel.jpg?itok=Uf5MZS4K)                                             | HON. KILEL, RICHARD CHERUIYOT        | BOMET             | BOMET CENTRAL       | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20%20kaiti.jpg?itok=iBdf-pjg)                                          | HON. KIMILU, JOSHUA KIVINDA          | MAKUENI           | KAITI               | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/King%27ola%20Patrick%20Makau.jpg?itok=i7FU7Zec)                                     | HON. KING'OLA PATRICK MAKAU          | MACHAKOS          | MAVOKO              | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ruiru.jpg?itok=dbbsoEuH)                                             | HON. KINGARA,  SIMON NGANGA          | KIAMBU            | RUIRU               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20makilap.jpg?itok=Nyt1jaQx)                                           | HON. KIPKOROS, JOSEPH MAKILAP        | BARINGO           | BARINGO NORTH       | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20soy.jpg?itok=pJH1OEeU)                                                    | HON. KIPLAGAT DAVID                  | UASIN GISHU       | SOY                 | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk) | HON. KIPNGOR REUBEN KIBOREK          |                   |                     |          | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Ngeno%20Stephen%20Johana%20Kipyegon.jpg?itok=zBfDV59b)                              | HON. KIPYEGON, JOHANA NGENO          | NAROK             | EMURUA DIKIRR       | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Nguchine.jpg?itok=o-n7nL9E)                                          | HON. KIRIMA MOSES NGUCHINE           | MERU              | CENTRAL IMENTI      | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk) | HON. KIRWA ABRAHAM KIPSANG           | NANDI             | MOSOP               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20kitany.jpg?itok=qA3s9tC7)                                                 | HON. KITANY MARIANNE                 | NANDI             | ALDAI               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20chonga.jpg?itok=4GbDrkjr)                                            | HON. KITI RICHARD KEN CHONGA         | KILIFI            | KILIFI SOUTH        | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kitur.jpg?itok=KBuHpWU2)                                             | HON. KITUR, BERNARD KIBOR            | NANDI             | NANDI HILLS         | UDA      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_MWANGI%20CROPPED.jpg?itok=nUv6KXgI)                                            | HON. KIUNJURI, MWANGI FESTUS         | LAIKIPIA          | LAIKIPIA EAST       | TSP      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Hon.%20Koech%20Kipngetich%20Victor_cropped.jpg?itok=KoxX8kfk)                       | HON. KOECH KIPNGETICH VICTOR         | BOMET             | CHEPALUNGU          | CCM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Koech%20Nelson%20KIpyegon.jpg?itok=Ussn3yVM)                                        | HON. KOECH, NELSON                   | KERICHO           | BELGUT              | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kombe%20Harrison%20Garama.jpg?itok=0o3LYlRW)                                        | HON. KOMBE HARRISON GARAMA           | KILIFI            | MAGARINI            | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kirui.jpg?itok=B3IAH1DS)                                             | HON. KOMINGOI KIBET KIRUI            | KERICHO           | BURETI              | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20sarah.jpg?itok=2lAmOG-h)                                                  | HON. KORERE SARAH PAULATA            | LAIKIPIA          | LAIKIPIA NORTH      | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20adams.jpg?itok=AVPc0aT-)                                             | HON. KORIR ADAMS KIPSANAI            | ELGEYO - MARAKWET | KEIYO NORTH         | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/DSC_1167.jpg?itok=44kn7xuZ)                                                         | HON. KOSGEI HILARY KIPLANG’AT        | KERICHO           | KIPKELION WEST      | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20waluke.jpg?itok=BpQtUWnx)                                            | HON. KOYI JOHN WALUKE                | BUNGOMA           | SIRISIA             | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kuno%20Yakub%20Adow.jpg?itok=MdNcEdoS)                                              | HON. KUNO YAKUB ADOW                 | TANA RIVER        | BURA                | UPIA     |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20siyad.jpg?itok=zwwd0vku)                                             | HON. KUNO, AMINA UDGOON SIYAD        | GARISSA           | GARISSA             | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kururia%20Elijah%20Njore%20Njoroge.jpg?itok=VLinJmQ3)                               | HON. KURURIA ELIJAH NJORE NJOROGE    | KIAMBU            | GATUNDU NORTH       | IND      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Lekuton%20Joseph.jpg?itok=jpK-tsPU)                                                 | HON. LEKUTON JOSEPH                  | MARSABIT          | LAISAMIS            | UDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Jossee.jpg?itok=A0VlWqJP)                                            | HON. LELMENGIT, JOSSES KIPTOO KOSGEY | NANDI             | EMGWEN              | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20aramat.jpg?itok=3e-kzMFX)                                            | HON. LEMANKEN ARAMAT                 | NAROK             | NAROK EAST          | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20samburu.jpg?itok=EKLJkzN-)                                           | HON. LENGURIS PAULINE                | SAMBURU           | SAMBURU             | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Lentoijoni%20Jackson%20Lekumontare.jpg?itok=MgkHxzvV)                               | HON. LENTOIJONI, JACKSON LEKUMONTARE | SAMBURU           | SAMBURU EAST        | KANU     |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Lesuuda%20Josephine%20Naisula.jpg?itok=qrmWo_Ca)                                    | HON. LESUUDA, NAISULA                | SAMBURU           | SAMBURU WEST        | KANU     | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20samburu_0.jpg?itok=LiAF0VBu)                                         | HON. LETIPILA, DOMINIC ELI           | SAMBURU           | SAMBURU NORTH       | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/DSC_1164%20copy_0.jpg?itok=kqtFgO1O)                                                | HON. LOCHAKAPONG, PETER              | WEST POKOT        | SIGOR               | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20samal.jpg?itok=q3Z64pKq)                                             | HON. LOMWA JOSEPH SAMAL              | ISIOLO NORTH      | ISIOLO NORTH        | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Lotee%20Titus_0.jpg?itok=GoLhuXT4)                                                  | HON. LOTEE TITUS                     | WEST POKOT        | KACHELIBA           | KUP      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20saboti.jpg?itok=1BjogSuY)                                            | HON. LUYAI, CALEB AMISI              | TRANS-NZOIA       | SABOTI              | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20farah.jpg?itok=X9d__tAq)                                             | HON. MAALIM, FARAH                   | GARISSA           | DADAAB              | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20mvita.jpg?itok=NjuxAcLd)                                                  | HON. MACHELE MOHAMED SOUD            | MOMBASA           | MVITA               | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Maina%20Jane%20Njeri.jpg?itok=bT1mCswV)                                             | HON. MAINA JANE NJERI                | KIRINYAGA         | KIRINYAGA           | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20njeri.jpg?itok=5K7ljT-w)                                             | HON. MAINA, BETTY NJERI              | MURANG’A          | MURANG’A            | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwea.jpg?itok=mt8zmCsJ)                                              | HON. MAINGI MARY                     | KIRINYAGA         | MWEA                | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiteyama.jpg?itok=AaDr5HTb)                                          | HON. MAISORI MARWA KEMERO KITAYAMA   | MIGORI            | KURIA EAST          | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20majimbo.jpg?itok=gefq-ntq)                                           | HON. MAJIMBO, KALASINGA              | BUNGOMA           | KABUCHAI            | FORD-K   | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20john.jpg?itok=NTnUBLvo)                                              | HON. MAKALI JOHN OKWISIA             | BUNGOMA           | KANDUYI             | FORD-K   | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nyaribari_0.jpg?itok=6xwENe24)                                       | HON. MANDUKU, DANIEL OGWOKA          | KISII             | NYARIBARI MASABA    | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Marubu%20Muthoni%20Monicah.jpg?itok=i3VtHwDf)                                       | HON. MARUBU MUTHONI MONICAH          | LAMU              | LAMU                | IND      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20masara_0.jpg?itok=hjAmRheU)                                               | HON. MASARA PETER FRANCIS            | MIGORI            | SUNA WEST           | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kwale.jpg?itok=KI-rIeRd)                                             | HON. MASITO, FATUMA HAMISI           | KWALE             | KWALE               | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nyeri%20town.jpg?itok=hfN5UDcv)                                      | HON. MATHENGE DUNCAN MAINA           | NYERI             | NYERI TOWN          | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/e94c9fec1d4737ab646df2330968a9dc_M.jpg?itok=9laKuL3q)                               | HON. MAWATHE JULIUS MUSILI           |                   |                     |          |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Mayaka%20Irene%20Nyakerario.jpg?itok=5SxFP6M7)                                      | HON. MAYAKA IRENE NYAKERARIO         |                   |                     | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/NIMROD%20MBITHUKA.jpg?itok=7i1MlN4_)                                                | HON. MBAI, NIMROD MBITHUKA           | KITUI             | KITUI EAST          | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mbalu.jpg?itok=Zvmxxo2J)                                             | HON. MBALU JESSICA NDUKU KIKO        | MAKUENI           | KIBWEZI EAST        | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kitui%20rural.jpg?itok=Z8a7uNZj)                                     | HON. MBONI, DAVID MWALIKA            | KITUI             | KITUI RURAL         | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mbui.jpg?itok=c4_LQdxH)                                              | HON. MBUI, ROBERT                    | MACHAKOS          | KATHIANI            | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A4725.jpg?itok=QkzTi0za)                                                    | HON. MELI, JULIUS KIPBIRWOT          | NANDI             | TINDERET            | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20taita.jpg?itok=A9Jy-dhn)                                                  | HON. MIZIGHI LYDIA HAIKA             | TAITA TAVETA      | TAITA TAVETA        | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20malindi.jpg?itok=hyTNiLVB)                                           | HON. MNYAZI AMINA LAURA              | KILIFI            | MALINDI             | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Stephen%20Mogaka_0.jpg?itok=e6jpnA_T)                                               | HON. MOGAKA STEPHEN                  | NYAMIRA           | WEST MUGIRANGO      | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Ladgera.jpg?itok=C2QwJqbv)                                                     | HON. MOHAMED ABDIKADIR HUSSEIN       | GARISSA           | LAGDERA             | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Adan%20Daud%20Mohamed.jpg?itok=WkiBWB74)                                            | HON. MOHAMED ADEN DAUDI              | WAJIR             | WAJIR EAST          | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A0061.jpg?itok=46j2FYR8)                                                    | HON. MOHAMED MOHAMED ALI             | MOMBASA           | NYALI               | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Umulkher%20Harun%20Mohamed.jpg?itok=ZGCttiw2)                                       | HON. MOHAMED UMULKHER HARUN          |                   |                     | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Mohamed%20Fatuma%20Zainab.jpg?itok=U8Zc3X6f)                                        | HON. MOHAMMED FATUMA ZAINAB          | MIGORI            | MIGORI              | IND      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Mohammed%20Zamzam%20Chimba.jpg?itok=Zf6gujuJ)                                       | HON. MOHAMMED ZAMZAM CHIMBA          | MOMBASA           | MOMBASA             | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A5100.jpg?itok=7RRoiwoe)                                                    | HON. MOMANYI JERUSHA MONGINA         | NYAMIRA           | NYAMIRA             | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20%20njoki.jpg?itok=figEyeU-)                                               | HON. MREMBO IRENE NJOKI              | NAKURU            | BAHATI              | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20pic.jpg?itok=V6ldxsCR)                                               | HON. MUCHIRA, MICHAEL MWANGI         | NYANDARUA         | OL JOROK            | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Mugabe%20Innocent%20Maino.jpg?itok=eufNhFQU)                                        | HON. MUGABE INNOCENT MAINO           | KAKAMEGA          | LIKUYANI            | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20cynthia.jpg?itok=7zNLK-Zt)                                           | HON. MUGE CYNTHIA JEPKOSGEI          | NANDI             | NANDI               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Muhanda%20Elsie%20Busihile.jpg?itok=xoNucImm)                                       | HON. MUHANDA ELSIE BUSIHILE          | KAKAMEGA          | KAKAMEGA            | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Muhia%20Wanjiku.jpg?itok=iaT6XEB-)                                                  | HON. MUHIA WANJIKU                   | NYANDARUA         | KIPIPIRI            | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20lurambi.jpg?itok=82UfK35R)                                                | HON. MUKHWANA TITUS KHAMALA          | KAKAMEGA          | LURAMBI             | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20john_0.jpg?itok=Z0Y-hSyk)                                            | HON. MUKUNJI JOHN GITONGA MWANIKI    | EMBU              | MANYATTA            | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nambale.jpg?itok=7VbAkeaf)                                           | HON. MULANYA EKESA GEOFFREY          | BUSIA             | NAMBALE             | IND.     | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20mule.jpg?itok=pBzPwr1w)                                                   | HON. MULE CALEB MUTISO               | MACHAKOS          | MACHAKOS TOWN       | MCCP     |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Mule%20Stephen%20Mutinda.jpg?itok=ZRM3aBw2)                                         | HON. MULE STEPHEN MUTINDA            | MACHAKOS          | MATUNGULU           | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20muli.jpg?itok=P3twQWxQ)                                              | HON. MULI FABIAN KYULE               | MACHAKOS          | KANGUNDO            | GDDP     | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Mulu%20Makali.jpg?itok=qFyXdCpA)                                                    | HON. MULU MAKALI                     | KITUI             | KITUI CENTRAL       | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwingi.jpg?itok=z1hTnq3d)                                            | HON. MULYUNGI, GIDEON MUTEMI         | MWINGI            | MWINGI CENTRAL      | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20rose.jpg?itok=F9HLhBFA)                                              | HON. MUMO, ROSE MUSEO                | MAKUENI           | MAKUENI             | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kigumo.jpg?itok=mulFjDT3)                                            | HON. MUNYORO JOSEPH KAMAU            | MURANG'A          | KIGUMO              | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20rabai.jpg?itok=98NudbIG)                                             | HON. MUPE ANTHONY KENGA              | KILIFI            | RABAI               | PAA      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Muratha%20Anne%20Wanjiku.jpg?itok=K9Mph7vQ)                                         | HON. MURATHA ANNE WANJIKU MUGO       | KIAMBU            | KIAMBU              | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gatanga.jpg?itok=d1Dn609X)                                           | HON. MURIU WAKILI EDWARD             | MURANG'A          | GATANGA             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Muriuki%20Bernard%20Nebart.jpg?itok=u-TnszvK)                                       | HON. MURIUKI NEBART BERNARD          | EMBU              | MBEERE SOUTH        | IND      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tharaka.jpg?itok=8hthSJat)                                                | HON. MURUGARA GEORGE GITONGA         | THARAKA-NITHI     | THARAKA             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Musau%20Vincent%20Musyoka.jpg?itok=ZWIjKl0X)                                        | HON. MUSAU, VINCENT MUSYOKA          | MACHAKOS          | MWALA               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Mutai%20Alfred%20Kiprono.jpg?itok=7FaW5cEa)                                         | HON. MUTAI KIPRONOH ALFRED           | NAKURU            | KURESOI NORTH       | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20lamu%20west.jpg?itok=qfTl3gl4)                                            | HON. MUTHAMA STANLEY MUIRURI         | LAMU              | LAMU WEST           | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20barasa.jpg?itok=VKZ_T0tM)                                            | HON. MUTUA, DIDMUS WEKESA BARASA     | BUNGOMA           | KIMILILI            | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20john.jpg?itok=oh6eToHz)                                                   | HON. MUTUNGA JOHN KANYUITHIA         | MERU              | TIGANIA WEST        | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_kibwezi%20cropped.jpg?itok=zYHe7gRn)                                           | HON. MUTUSE ECKOMAS MWENGI           | MAKUENI           | KIBWEZI WEST        | MCCP     | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20roysambu.jpg?itok=OOMXxQX4)                                          | HON. MWAFRIKA AUGUSTINE KAMANDE      | NAIROBI           | ROYSAMBU            | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Amos%20Mwago%20Maina_0.jpg?itok=cw_CH1QU)                                           | HON. MWAGO AMOS MAINA                | NAIROBI           | STAREHE             | JP       | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Mwakuwona%20Danson%20Mwashako.jpg?itok=CrGJrOvP)                                    | HON. MWAKUWONA DANSON MWASHAKO       | TAITA TAVETA      | WUNDANYI            | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-11/Mwale%20Scott%20Tindi.jpg?itok=LU_whZaS)                                            | HON. MWALE NICHOLAS SCOTT TINDI      | KAKAMEGA          | BUTERE              | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Mwalyo%20Joshua%20Mbithi.jpg?itok=wnwcqoj1)                                         | HON. MWALYO, JOSHUA MBITHI           | MACHAKOS          | MASINGA             | IND      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tete.jpg?itok=vBBxjUao)                                                   | HON. MWANGI GEOFFREY WANDETO         | NYERI             | TETU                | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2023-05/Mwangi%20Teresia.jpg?itok=t64bUDA0)                                                 | HON. MWANGI TERESIA WANJIRU          |                   |                     |          |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20Mbeyu.jpg?itok=I3KzHphq)                                             | HON. MWANYANJE GERTRUDE MBEYU        | KILIFI            | KILIFI              | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwenje.jpg?itok=QuNoRve7)                                            | HON. MWENJE MARK SAMUEL MURIITHI     | NAIROBI           | EMBAKASI WEST       | JP       | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20paul.jpg?itok=uBZvk5ak)                                              | HON. MWIRIGI JOHN PAUL               | MERU              | IGEMBE SOUTH        | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/nabii%20nabwera%20daraja.jpg?itok=IcYXSBYn)                                         | HON. NABII NABWERA DARAJA            | KAKAMEGA          | LUGARI              | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Nabulindo%20Peter%20Oscar.jpg?itok=e7_8SUVF)                                        | HON. NABULINDO, PETER OSCAR          | KAKAMEGA          | MATUNGU             | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/NAICCA%20JOHNSON%20MANYA.jpg?itok=xOA8GYlF)                                         | HON. NAICCA JOHNSON MANYA            | KAKAMEGA          | MUMIAS WEST         | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20turkana_0.jpg?itok=-UMHRHee)                                              | HON. NAMUAR JOSEPH EMATHE            | TURKANA           | TURKANA CENTRAL     | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20turkana.jpg?itok=dthWDw3q)                                                | HON. NANOK, DANIEL EPUYO             | TURKANA           | TURKANA WEST        | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20cropped.jpg?itok=t19YCMsg)                                           | HON. NDUNG’U, GEORGE KOIMBURI        | KIAMBU            | JUJA                | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tharaka%23.jpg?itok=q6bsivTd)                                             | HON. NDUYO SUSAN NGUGI               | THARAKA NITHI     | THARAKA NITHI       | TSP      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20thika%20town.jpg?itok=Go3b5RB2)                                           | HON. NGANGA ALICE WAMBUI             | KIAMBU            | THIKA TOWN          | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20Nixon.jpg?itok=tkzwP6fU)                                                  | HON. NGIKOLONG NICHOLAS NGIKOR NIXON | TURKANA           | TURKANA EAST        | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20cwr.jpg?itok=e9lFaAhQ)                                                    | HON. NGITIT, CECILIA ASINYEN         | TURKANA           | TURKANA             | UDA      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_PHOTO-2022-05-26-14-17-39.jpg?itok=oF392Kr0)                                   | HON. NGUNA, NGUSYA CHARLES           | KITUI             | MWINGI WEST         | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Nguro%20Onesmus%20Ngogoyo.jpg?itok=YIO1jWgq)                                        | HON. NGURO ONESMUS NGOGOYO           | KAJIADO           | KAJIADO NORTH       | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20caroline.jpg?itok=l6urBVFh)                                          | HON. NG’ELECHEI CAROLINE JEPTOO      | ELGEYO MARAKWET   | ELGEYO MARAKWET     | IND.     | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Mbadi%20John%20Ng%27ongo.jpg?itok=f3jkWChA)                                         | HON. NG’ONGO JOHN MBADI              |                   |                     | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20embu.jpg?itok=7NKoDKPc)                                              | HON. NJERU PAMELA NJOKI              | EMBU              | EMBU                | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-11/Hon.%20Mary%20Wamaua.jpg?itok=utsyPiNY)                                             | HON. NJOROGE MARY WAMAUA WAITHIRA    | MURANG'A          | MARAGWA             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ntutu.jpg?itok=WvwynFnn)                                             | HON. NTUTU KITILAI OLE               | NAROK             | NAROK SOUTH         | IND      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20chuka.jpg?itok=1boMjlNm)                                             | HON. NTWIGA PATRICK MUNENE           | THARAKA - NITHI   | CHUKA IGAMBANG'OMBE | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Nyakundi%20Japheth%20Mokaya.jpg?itok=9ceYj1qz)                                      | HON. NYAKUNDI JAPHETH MOKAYA         | KISII             | KITUTU CHACHE NORTH | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kaki.jpg?itok=xLF1wjmL)                                              | HON. NYAMAI RACHAEL KAKI             | KITUI             | KITUI SOUTH         | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Nyamita%20Mark%20Ogolla.jpg?itok=Nc5L1gJn)                                          | HON. NYAMITA MARK OGOLLA             | MIGORI            | URIRI               | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_DSC_0866%20copy.jpg?itok=eMgG8iAr)                                             | HON. NYAMOKO, JOASH NYAMACHE         | NYAMIRA           | NORTH MUGIRANGO     | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20edith.jpg?itok=cA4e4uvy)                                             | HON. NYENZE EDITH VETHI              | KITUI             | KITUI WEST          | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20seme.jpg?itok=Jc6197l2)                                              | HON. NYIKAL WAMBURA JAMES            | KISUMU            | SEME                | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Nyoro%20Ndindi%20Samson.jpg?itok=-IKzU2fx)                                          | HON. NYORO, SAMSON NDINDI            | MURANG’A          | KIHARU              | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwingi_0.jpg?itok=i06_o4rO)                                          | HON. NZENGU, PAUL MUSYIMI            | MWINGI            | MWINGI NORTH        | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Nzioka%20Erastus%20Kivasu.jpg?itok=JiBOIsKE)                                        | HON. NZIOKA ERASTUS KIVASU           | MAKUENI           | MBOONI              | WDM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_MWESH%20PHOTO.jpg?itok=HhUsAD7k)                                               | HON. OBARA EVE AKINYI                | HOMA BAY          | KABONDO KASIPUL     | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20obiri.jpg?itok=nNI1eFod)                                             | HON. OBIRI, INNOCENT MOMANYI         | KISII             | BOBASI              | WDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/mini_831A4746.jpg?itok=jMMBJMFk)                                                    | HON. OBO RUWEIDA MOHAMED             | LAMU              | LAMU EAST           | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Ochieng%20David%20Ouma.jpg?itok=AIX_PINb)                                           | HON. OCHIENG DAVID OUMA              | SIAYA             | UGENYA              | MDG      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Odanga%20Geoffrey%20Makokha.jpg?itok=_BQSU4O9)                                      | HON. ODANGA, GEOFFREY MAKOKHA        | BUSIA             | MATAYOS             | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Odege%20Tom%20Mboya.JPG?itok=iUfOHd1c)                                              | HON. ODEGE TOM MBOYA                 | MIGORI            | NYATIKE             | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Odhiambo%20Elisha%20Ochieng.jpg?itok=afaoKroD)                                      | HON. ODHIAMBO, ELISHA OCHIENG        | SIAYA             | GEM                 | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20millie.jpg?itok=N3LAnGDf)                                                 | HON. ODHIAMBO, MILLIE GRACE AKOTH    | HOMA BAY          | SUBA NORTH          |          |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ochanda.jpg?itok=Xfv4e8CB)                                           | HON. OGOLLA. GIDEON OCHANDA          | SIAYA             | BONDO               | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20jared.jpg?itok=rHwgsrJF)                                             | HON. OKELO, JARED ODOYO              | KISUMU            | NYANDO              | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20okuome.jpg?itok=CcG28U-m)                                            | HON. OKUOME ADIPO ANDREW             | HOMA BAY          | KARACHUONYO         | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Oluoch%20Anthony.jpg?itok=QfSBEh3S)                                                 | HON. OLUOCH, ANTHONY TOM             | NAIROBI           | MATHARE             | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20omanyo.jpg?itok=QTzKdVbX)                                            | HON. OMANYO, CATHERINE NAKHABI       | BUSIA             | BUSIA               | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20siaya.jpg?itok=VPtR0kEb)                                             | HON. OMBAKA ODUOR CHRISTINE          | SIAYA             | SIAYA               | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Milemba%20Omboko%20Jeremiah.jpg?itok=1KRBZvFe)                                      | HON. OMBOKO MILEMBA                  | VIHIGA            | EMUHAYA             |          | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Omondi%20Caroli.jpg?itok=-maCMtAd)                                                  | HON. OMONDI CAROLI                   | HOMA BAY          | SUBA SOUTH          | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_DSC_3680.jpg?itok=DmKMG6BV)                                                    | HON. OMWERA GEORGE ALDWA             | NAIROBI           | MAKADARA            | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20onchoke.jpg?itok=vA2tXElE)                                           | HON. ONCHOKE CHARLES MAMWACHA        | KISII             | BONCHARI            | UPA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/ONYIEGO%2C%20SILVANUS%20OSORO.jpg?itok=UQjhONxP)                                    | HON. ONYIEGO, SILVANUS OSORO         | KISII             | SOUTH MUGIRANGO     | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20orero.jpg?itok=PA0G_N0Z)                                             | HON. ORERO, PETER OCHIENG            | NAIROBI           | KIBRA               | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Oron%20Joshua%20Odongo.jpg?itok=xbjyZN3l)                                           | HON. ORON JOSHUA ODONGO              | KISUMU            | KISUMU CENTRAL      | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A4712.JPG?itok=AkHa6CE2)                                                    | HON. OSERO PATRICK                   | NYAMIRA COUNTY    | BORABU              | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Bensuada.jpg?itok=5Dlpv83D)                                          | HON. OSOGO JOYCE ATIENO BENSUDA      | HOMA BAY          | HOMA BAY            | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Cropped%20emase.jpg?itok=csFbxFv6)                                                  | HON. OTUCHO, MARY EMAASE             | BUSIA             | TESO SOUTH          | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20oundo.jpg?itok=UYU7nbFE)                                             | HON. OUNDO, WILBERFORCE OJIAMBO      | BUSIA             | FUNYULA             | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20owino.jpg?itok=v4qPUoBJ)                                                  | HON. OWINO JOHN WALTER               | MIGORI            | AWENDO              | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ndhiwa.jpg?itok=T9edSNaZ)                                            | HON. OWINO, MARTIN PETERS            | HOMA BAY          | NDHIWA              | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Aduma%20Joshua%20Owuor.jpg?itok=HYlbFR0Q)                                           | HON. OWUOR, JOSHUA ADUMA             | KISUMU            | NYAKACH             | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Oyoo%20James%20Opiyo.jpg?itok=GbhSRXya)                                             | HON. OYOO, JAMES ONYANGO             | KISUMU            | MUHORONI            | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Luanda%20Dick%20Maungu.jpg?itok=QKO7Ydhk)                                           | HON. OYUGI, DICK MAUNGU              | VIHIGA            | LUANDA              | DAP-K    | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20oyula.jpg?itok=p5JhXM5k)                                             | HON. OYULA, JOSEPH H. MAERO          | BUNGOMA           | BUTULA              | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20samuel.jpg?itok=wPXMIgjJ)                                                 | HON. PARASHINA SAMUEL SAKIMBA        | KAJIADO           | KAJIADO SOUTH       | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mantaine.jpg?itok=WVH8LaCv)                                          | HON. PAREYIO MANTAINE AGNES          | NAROK             | NAROK NORTH         | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nairobi.jpg?itok=gFN0XjxN)                                           | HON. PASSARIS ESTHER MUTHONI         | NAIROBI           | NAIROBI             | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A7278.jpg?itok=NGkEJ9U8)                                                    | HON. PKOSING, DAVID                  | POKOT             | POKOT SOUTH         | KUP      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Rai.jpg?itok=DHipIyd3)                                               | HON. RAI SAMUEL GONZI                | KWALE             | KINANGO             | PAA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/c751a390ac9295853b04d199f361f99e_M.jpg?itok=dnuWIjVq)                               | Hon. Raso, Dido Ali                  |                   | Saku                |          | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20saku.jpg?itok=rzoKK_co)                                              | HON. RASSO, COL (RTD) DIDO ALI       | MARSABIT          | SAKU                | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20robi.jpg?itok=5ubugo_Y)                                              | HON. ROBI, MATHIAS NYAMABE           | MIGORI            | KURIA WEST          | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ruku%20Geoffrey%20Kiringa.jpg?itok=9zzA8cru)                                        | HON. RUKU GEOFFREY KIRINGA           | EMBU              | MBEERE NORTH        | DP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Salasya%20Peter%20Kalerwa.jpg?itok=eqEhO9Sz)                                        | HON. SALASYA PETER KALERWA           | KAKAMEGA          | MUMIAS EAST         | DAP-K    |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Salim%20Feisal%20Abdallah%20Bader_0.jpg?itok=It5CFlao)                              | HON. SALIM FEISAL ABDALLAH BADER     | KWALE             | MSAMBWENI           | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ibrahim%20Saney%20Abdi.jpg?itok=zREgQ-JD)                                           | HON. SANEY IBRAHIM ADBI              | WAJIR             | WAJIR NORTH         | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Leah.jpg?itok=iGWG-ciT)                                              | HON. SANKAIRE LEAH SOPIATO           | KAJIADO           | KAJIADO             | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20jematiah.jpg?itok=x6eUtIwG)                                          | HON. SERGON, JEMATIAH FLOWRENCE      | BARINGO           | BARINGO             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwatate.jpg?itok=bz03eWu_)                                           | HON. SHAKE MBOGHO PETER              | TAITA TAVETA      | MWATATE             | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mandera_2.jpg?itok=4FWqbnvw)                                         | HON. SHEIKH UMUL KER KASSIM          | MANDERA           | MANDERA             | UDM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwinyi.jpg?itok=7ACjK_OQ)                                            | HON. SHIMBWA OMAR MWINYI             | MOMBASA           | CHANGAMWE           | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20shinali.jpg?itok=hIGIpZAi)                                           | HON. SHINALI BERNARD MASAKA          | KAKAMEGA          | IKOLOMANI           | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Shurie%20Abdi%20Omar.jpg?itok=8qSlNZct)                                             | HON. SHURIE ABDI OMAR                | GARISSA           | BALAMBALA           | JP       |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sotik.jpg?itok=FuLRFycz)                                             | HON. SIGEI, FRANCIS KIPYEGON ARAP    | BOMET             | SOTIK               | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sirma.jpg?itok=BYN-FVUu)                                             | HON. SIRMA, MUSA CHERUTICH           | BARINGO           | ELDAMA RAVINE       | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Sitati%20Daniel%20Wanyama.jpg?itok=oiAxOvTT)                                        | HON. SITATI DANIEL WANYAMA           | BUNGOMA           | WEBUYE WEST         | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20janet.jpg?itok=ATiDaARU)                                                  | HON. SITIENEI, JANET JEPKEMBOI       | UASIN GISHU       | TURBO               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20siyoi.jpg?itok=kiYiOcc9)                                                  | HON. SIYOI LILLIAN CHEBET            | TRANS NZOIA       | TRANS NZOIA         | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sabatia.jpg?itok=Bnjm6cpK)                                           | HON. SLOYA CLEMENT LOGOVA            | VIHIGA            | SABATIA             | UDA      | ABSENT |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sudi.jpg?itok=-XqlPrkj)                                              | HON. SUDI OSCAR KIPCHUMBA            | UASIN GISHU       | KAPSERET            | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Harun%20Zuleka%20Hulbale.jpg?itok=4oTGGYBK)                                         | HON. SULEKA HULBALE HARUN            |                   |                     | UDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20risa.jpg?itok=S_Ve_Jxb)                                              | HON. SUNKUIYA,  GEORGE RISA          | KAJIADO           | KAJIADO WEST        | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sunkuli.jpg?itok=FXm7OC4m)                                           | HON. SUNKULI, JULIUS LEKAKENY        | NAROK             | KILGORIS            | KANU     |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20m%27anaiba.jpg?itok=KqhEdbBt)                                        | HON. TAITAMU JULIUS MÁNAIBA          | MERU              | IGEMBE NORTH        | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kassim%20Sawa%20Tandaza.jpg?itok=JFzZRabi)                                          | HON. TANDAZA KASSIM SAWA             | KWALE             | MATUGA              | ANC      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Thuku%20Zachary%20Kwenya.jpg?itok=xoitjpuK)                                         | HON. THUKU ZACHARY KWENYA            | NYANDARUA         | KINANGOP            | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/IMG-20220519-WA0047.jpg?itok=EoI__5w6)                                              | HON. TONGOYO, GABRIEL KOSHAL         | NAROK             | NAROK WEST          | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20tonkei.jpg?itok=y4GUYcgQ)                                            | HON. TONKEI REBECCA NOONAISHI        | NAROK             | NAROK               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped_1.jpg?itok=PCBx4329)                                                   | HON. TONUI JOSEPH KIPKOSGEI          | NAKURU            | KURESOI SOUTH       | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Toroitich%20Timothy%20Kipchumba.jpg?itok=7Mo5l5Ud)                                  | HON. TOROITICH TIMOTHY KIPCHUMBA     | ELGEYO MARAKWET   | MARAKWET WEST       | IND      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20Ganze.jpg?itok=i9wJg0Lz)                                             | HON. TUNGULE CHARO KENNETH KAZUNGU   | KILIFI            | GANZE               | PAA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nyeri.jpg?itok=0zeqT0VI)                                             | HON. WACHIRA,  RAHAB MUKAMI          | NYERI             | NYERI               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kieni.jpg?itok=X4Z6Ypqz)                                             | HON. WAINAINA ANTHONY NJOROGE        | NYERI             | KIENI               | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20othaya.jpg?itok=-tidOmQD)                                            | HON. WAINAINA, MICHAEL WAMBUGU       | NYERI             | OTHAYA              | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiambu.jpg?itok=PbsES7Ar)                                            | HON. WAITHAKA JOHN MACHUA            | KIAMBU            | KIAMBU              | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20wamachukuru.jpg?itok=yVqTcKFb)                                       | HON. WAMACUKURU JAMES GITHUA KAMAU   | KIAMBU            | KABETE              | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20catherine.jpg?itok=9M3ht9bF)                                         | HON. WAMBILIANGA CATHERINE NANJALA   | BUNGOMA           | BUNGOMA             | FORD - K |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20jack.jpg?itok=UNF-OvYJ)                                              | HON. WAMBOKA WANAMI JACK NELSON      | BUNGOMA           | BUMULA              | DAP-K    | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Wamuchomba%20Gathoni.jpg?itok=sYSB7Aoa)                                             | HON. WAMUCHOMBA,  GATHONI            | KIAMBU            | GITHUNGURI          | UDA      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Opiyo%20James%20Wandayi.jpg?itok=gJeXk167)                                          | HON. WANDAYI, JAMES OPIYO            | SIAYA             | UGUNJA              | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Wangaya%20Christopher%20Aseka.jpg?itok=5tWYwO7u)                                    | HON. WANGAYA CHRISTOPHER ASEKA       | KAKAMEGA          | KHWISERO            | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Wangwe%20Emmanuel.jpg?itok=8JX0-s2x)                                                | HON. WANGWE, EMMANUEL                | KAKAMEGA          | NAVAKHOLO           | ODM      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20wanjala.jpg?itok=xpDBepXq)                                           | HON. WANJALA RAPHAEL BITTA SAUTI     | BUSIA             | BUDALANGI           | ODM      | NO     |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiambaa.jpg?itok=rE2BmWs_)                                           | HON. WANJIKU JOHN NJUGUNA            | KIAMBU            | KIAMBAA             | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Martha.jpg?itok=bHceuIvp)                                            | HON. WANJIRA, MARTHA WANGARI         | NAKURU            | GILGIL              | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kevin.jpg?itok=d14Ls9Po)                                             | HON. WANYONYI KEVIN FERDINAND        | TRANS NZOIA       | KWANZA              | FORD - K | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Wanyonyi%20Martin%20Pepela.jpg?itok=Wczpwm9y)                                       | HON. WANYONYI MARTIN PEPELA          | BUNGOMA           | WEBUYE EAST         | FORD-K   |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Waqo%20Naomi%20Jillo.jpg?itok=PkJ7SGkz)                                             | HON. WAQO NAOMI JILLO                | MARSABIT          | MARSABIT            | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiarie.jpg?itok=0tQ8Umo0)                                            | HON. WAWERU, JOHN KIARIE             | NAIROBI           | DAGORETTI SOUTH     | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kasipul.jpg?itok=AZ18UvSb)                                           | HON. WERE CHARLES ONG’ONDO           | HOMA BAY          | KASIPUL             | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/WETANGULA%20TIMOTHY%20WANYONYI.jpg?itok=gqcqTrru)                                   | HON. WETANGULA TIMOTHY WANYONYI      | NAIROBI           | WESTLANDS           | ODM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20yegon_0.jpg?itok=veYApckE)                                           | HON. YEGON BRIGHTON LEONARD          | BOMET             | KONOIN              | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20richard.jpg?itok=b6TFTear)                                           | HON. YEGON, RICHARD KIPKEMOI         | BOMET             | BOMET EAST          | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%201.jpg?itok=S6K5Jldu)                                                 | HON. YUSSUF, ADAN HAJI               | MANDERA           | MANDERA WEST        | UDM      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kimani%20Francis%20Kuria.jpg?itok=a6F1t-7P)                                         | HON.(CPA) KIMANI FRANCIS KURIA       | NAKURU            | MOLO                | UDA      |        |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped_0.jpg?itok=yO0l75Fs)                                                   | HON.KARITHO KIILI DANIEL             | MERU              | IGEMBE CENTRAL      | JP       | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20maara.jpg?itok=30C3yv2d)                                             | HON.MBIUKI JAPHET MIRITI KAREKE      | THARAKA NITHI     | MAARA               | UDA      | YES    |
+| ![](http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk) | VACANT                               | GARISSA           | GARISSA TOWNSHIP    |          |        |

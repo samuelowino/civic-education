@@ -5,5 +5,7 @@ public class FinancebillApplication {
 		String csvOutputFile = "voting_data.csv";
 		DataCleaning.convertToCSV(sourceFile,csvOutputFile);
 		DataCleaning.generateBasicResults(sourceFile);
+		String markdownTable = Seeder.updateJsonWithVotingData();
+		DataCleaning.appendUpdatedTableToMarkDown(markdownTable);
 	}
 }

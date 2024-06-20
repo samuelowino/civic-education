@@ -56,28 +56,21 @@ public class DataCleaning {
                             absentCount++;
                             break;
                         default:
-                            // Handle unexpected vote values
-                            System.err.println("Unexpected vote value: " + vote);
+                            log.debug("Unexpected vote value: " + vote);
                             break;
                     }
                     ++totalCount;
                 } else {
-                    // Handle lines that do not match expected format
-                    System.err.println("Skipping line: " + line);
+                    log.debug("Skipping line: " + line);
                 }
             }
-
-            // Calculate percentages
             double yesPercentage = (double) yesCount / totalCount * 100.0;
             double noPercentage = (double) noCount / totalCount * 100.0;
             double absentPercentage = (double) absentCount / totalCount * 100.0;
-
-            // Write Markdown content
             writer.write("# THE FINANCE BILL, 2024  ## SECOND READING ## VOTING RESULTS\n");
             writer.write("A Bill for\n");
             writer.write("AN ACT of Parliament to amend the law relating to various taxes and duties\n");
 
-            // Write Markdown content
             writer.write("# Voting Analysis\n\n");
             writer.write("Total Votes: " + totalCount + "\n\n");
             writer.write("### Vote Breakdown:\n");
@@ -86,6 +79,14 @@ public class DataCleaning {
             writer.write("- Absent Votes: " + absentCount + " (" + String.format("%.2f", absentPercentage) + "%)\n\n");
             writer.write("## Raw Voting Data\n\n");
             writer.write(rawDataTable.toString());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    static void appendUpdatedTableToMarkDown(String markdownTable){
+        String outputFilePath = "README.md";
+        try (FileWriter writer = new FileWriter(outputFilePath)) {
+            writer.append(markdownTable);
         } catch (IOException e) {
             e.printStackTrace();
         }
